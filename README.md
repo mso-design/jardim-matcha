@@ -1,2 +1,7 @@
-# jardim-matcha
-Jardim Matcha — planner gratuito, rotina no seu ritm e apoio opcional de R$ 1.
+# Jardim Matcha
+
+Planner gratuito para organizar a rotina no seu ritmo.
+
+Site: https://mso-design.github.io/jardim-matcha/
+
+Apoio opcional de R$ 1 via Pix. As anotações do planner ficam no navegador de cada pessoa.

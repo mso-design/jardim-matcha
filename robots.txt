@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://mso-design.github.io/jardim-matcha/sitemap.xml
